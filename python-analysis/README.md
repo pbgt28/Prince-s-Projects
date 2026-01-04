@@ -1,3 +1,5 @@
+Housing Market Data Analysis Using Python
+
 Project Overview
 
 This project focuses on exploratory data analysis (EDA) and visualization of a housing dataset to uncover patterns, trends, and relationships among different factors influencing housing prices. The analysis was performed using Python on Google Colab, with the dataset preprocessed prior to analysis to ensure accuracy and reliability of insights.
