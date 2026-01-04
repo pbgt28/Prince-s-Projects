@@ -35,8 +35,9 @@ Business Questions Answered
 
 Dataset Information
 	•	Source: Kaggle
-	•	File Type: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
-	•	Format: Tabular housing data
+	•	File Type: CSV
+	•   Dataset: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+	•	Format: Tabular Housing Data
 	•	Features include:
 	•	Price
 	•	Area (sqft)
