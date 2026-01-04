@@ -1,5 +1,3 @@
-Housing Market Analysis
-
 Housing Market Analysis | Power BI Report
 
 Project Overview
@@ -8,6 +6,7 @@ This project showcases an exploratory data analysis (EDA) performed using an int
 
 
 Objectives
+
 	•	Analyze the distribution of housing properties based on structural features and amenities
 	•	Examine the relationship between house prices and key attributes such as:
 	 •	Area
@@ -23,6 +22,7 @@ Objectives
 
 
 Business Questions Answered
+
 	1.	Which factors have the greatest impact on house prices?
 	2.	How strongly does property area influence pricing?
 	3.	Which amenities significantly increase property value?
@@ -34,6 +34,7 @@ Business Questions Answered
 
 
 Dataset Information
+
 	•	Source: Kaggle
 	•	File Type: CSV
 	•   Dataset: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
@@ -50,6 +51,7 @@ Dataset Information
 
 
 Key Insights
+
 	•	Property area and number of bathrooms have the strongest influence on house prices
 	•	Properties in preferred locations consistently command higher prices
 	•	Furnished houses show higher average prices compared to semi-furnished and unfurnished
@@ -58,6 +60,7 @@ Key Insights
 
 
 Overall Ranking of Price Influencing Factors
+
 	1.	Property area
 	2.	Number of bathrooms
 	3.	Preferred location
@@ -71,6 +74,7 @@ Note: Insights are based on exploratory visual analysis of raw data and do not i
 
 
 Dashboard Highlights
+
 	•	Fully interactive Power BI report
 	•	Clear, business-focused visuals
 	•	Insight-driven storytelling without data transformation
