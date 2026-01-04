@@ -12,9 +12,13 @@ This project aims to analyze a housing dataset to identify key factors affecting
 Objectives
 
 •	To preprocess and clean the housing dataset for accurate analysis
+
 •	To explore and understand the structure and distribution of housing data
+
 •	To identify relationships between different housing features and prices
+
 •	To visualize trends and correlations using effective graphical representations
+
 •	To provide data-driven insights that can support decision-making in real estate analysis
 
 
