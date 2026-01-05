@@ -1,10 +1,12 @@
 Housing Market Analysis
 
 Project Overview
+
 This project focuses on analyzing housing market data to uncover trends, patterns, and insights related to property prices and key influencing factors. The analysis combines Python-based data analysis and Power BI visualizations to provide both analytical depth and interactive visualizations.
 
 
 Problem Statement
+
 The housing market is influenced by multiple factors such as location, property size, and amenities. Understanding these factors is essential for buyers, sellers, and analysts to make informed decisions.  
 This project aims to explore and visualize housing data to identify meaningful insights and patterns.
 
