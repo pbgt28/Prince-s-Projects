@@ -39,5 +39,4 @@ Key Insights
 Conclusion
 This project demonstrates how data analysis and visualization tools can be effectively combined to analyze real-world datasets. The insights obtained can assist stakeholders in understanding market behavior and making data-driven decisions.
 
-- Certain attributes have a higher influence on pricing trends  
-- Visualization helps in identifying outliers and market patterns clearly  
+
