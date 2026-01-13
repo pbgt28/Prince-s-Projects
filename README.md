@@ -42,3 +42,7 @@ Conclusion
 This project demonstrates how data analysis and visualization tools can be effectively combined to analyze real-world datasets. The insights obtained can assist stakeholders in understanding market behavior and making data-driven decisions.
 
 
+Machine Learning Module
+
+This project also includes a machine learning model for predicting house prices.
+The ML implementation is available in the `ML-Model` folder and uses a Linear Regression model trained on the same housing dataset used for analysis and visualization.
