@@ -8,8 +8,10 @@ To develop a regression-based predictive model that estimates house prices based
 
 # Dataset
 
-	•	Source: Kaggle 
+  •	Source: Kaggle 
+  
   • File Type: CSV
+  
 	•	Data Type: Tabular
 	•	Target Variable: Price
 	•	Features include:
@@ -22,33 +24,30 @@ To develop a regression-based predictive model that estimates house prices based
   Dataset Link: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
   
 # Technologies Used
-	•	Language: Python
-	•	Libraries: Pandas,NumPy,Scikit-learn
-  •	Platform: Google Colab
 
-  Technologies Used
 	•	Language: Python
-	•	Libraries:
-	•	Pandas
-	•	NumPy
-	•	Matplotlib
-	•	Scikit-learn
+	
+	•	Libraries: Pandas,NumPy,Scikit-learn
+	
+    •	Platform: Google Colab
 
 # Project Scope & Workflow
+
 	1.	Data loading
-  2.  Data Preprocessing
+    2.  Data Preprocessing
 	3.	Feature selection
 	4.	Categorical variable encoding (using Pandas)
 	5.	Train-test split
 	6.	Regression model training
 	7.	Model evaluation using regression metrics
-  8.  Price Prediction for a house based on sample data
+    8.  Price Prediction for a house based on sample data
 
 Exploratory analysis and visual insights are handled separately to keep this folder focused on modeling.
 
 Model Used: Linear Regression
 
 # Model Evaluation
+
 	•	R² Score: ~0.65
 	•	Indicates the model explains ~65% of the variance in house prices, which is acceptable for a real-world regression problem with limited features.
 	•	Additional Metrics: Mean Squared Error (MSE) and Mean Absolute Error (MAE)
