@@ -15,11 +15,11 @@ To develop a regression-based predictive model that estimates house prices based
 	•	Data Type: Tabular
 	•	Target Variable: Price
 	•	Features include:
-	•	Area / Size
-	•	Number of rooms
-	•	Furnishing status
-	•	Location-related attributes
-	•	Other numerical and categorical variables
+	    •	Area / Size
+	    •	Number of rooms
+	    •	Furnishing status
+	    •	Location-related attributes
+	    •	Other numerical and categorical variables
 
   Dataset Link: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
   
