@@ -15,7 +15,7 @@ Files Included
 
 Description
 The dataset includes information related to housing prices and features such as:
-- Location / region
+
 - Property characteristics
 - Pricing-related attributes
 - Other relevant housing indicators
