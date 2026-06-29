@@ -118,7 +118,7 @@ target='prices_in_lakhs' # target variable
 x=df[features]
 y=df[target]
 
-"""The above code selects the relevant input features abd defines the target variable for the housing price prediction problem. The data is separated into independent and dependent variables to prepare it for applying Linear Regression in the further steps."""
+"""The above code selects the relevant input features and defines the target variable for the housing price prediction problem. The data is separated into independent and dependent variables to prepare it for applying Linear Regression in the further steps."""
 
 # Import the required features
 from sklearn.model_selection import train_test_split
